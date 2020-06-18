@@ -4,7 +4,7 @@
 
 ## Online demo
 
-http://code.zce.me/music-player-pages/
+https://giangbg02.github.io/music-player-pages/index.html
 
 ## Preview
 
